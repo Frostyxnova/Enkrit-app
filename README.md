@@ -5,7 +5,7 @@ ENKRIT APP help humans to learn little bit of sanskrit language that humans can 
 
 FEATURES:
 In this app,I have created four fragmant activities(NUMBERS ACTIVITY,FAMILY ACTIVITY,COLORS ACTIVITY,PHRASES ACTIVITY) and are displayed in a listview.Each element in the list has an image,sanskrit word,english translation of the sanskrit word and audio for the sanskrit word.
-In the fragment activities,I used adapters to implement view recycling.AudioFocus has been implemented in the app to avoid playing the app audio in case of a phone call or other periority apps playing. 
+In the fragment activities,I have used adapters to implement view recycling.AudioFocus has been implemented in the app to avoid playing the app audio in case of a phone call or other periority apps playing. 
 
 ![Number p](https://user-images.githubusercontent.com/90808223/141608500-7c92b779-c5cc-41c2-9b53-c97d8452fe25.jpg)
 ![phrases p](https://user-images.githubusercontent.com/90808223/141608505-cca3baaa-247a-4569-bb98-49390472c06e.jpg)
